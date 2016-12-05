@@ -3,10 +3,21 @@
 ## General Outline: 
 
 * What To Focus On (10 min)
+  * Slack channel
+  * Github repo
 
-* What matters to us in candidates?
+Opener: I Never Signed Up for That! (20 - 30 min)
+* Give us your name, what you do, and tell a quick story of a time you took a job and discovered it was entirely different.
+* A friend called me and said a company was losing their sysadmin the next day, and could I step in temporarily?
+* I did, but was in school so could only work 10 hours.  I ended up working 25 hours ... but most of it wasn't sysadminning at all, most of it was just inventorying and wiping existing computers... oh, and maintaining a dying Exchange server.
+
+Point: When you're recruiting, you need to be clear about what you're looking for, or people will be unhappy and you might get the wrong person.
+
+* What matters to us in candidates? (10 min)
  * Identifying Candidate Levels
- * Identifying Candidate Skills
+   -- talk about Beginning/Intermediate/Senior/... what else?
+   -- How is that defined?
+ * Identifying Candidate Skills (what do we care about?)
   * Technical Skills
   * Life Skills
  * Other Candidate Traits
@@ -18,14 +29,49 @@
 
 * Getting candidates in the door
  * Where to look?
- * Recruiters
+
+Opener: In Their Shoes (Job Candidate) 10 min
+* Form three groups
+* You have two minutes to think of all the approaches you take to getting a job
+* Write them all down
+* We'll read them out, the team with the most unique answers will win
+
+ * Recruiters 10 min
   * In-house
   * Outsourced
   * How to communicate with them
- * Job Descriptions
+    * Team up
+    * When are they useful?
+    * I like to write a mission statement, which I can then use to describe and guide the whole team.  A lot of the time only me and the recruiter are the people who see that.
+Sourcing:
+   * Figure out what kinds of staff we're looking for
+   * How many people write their own vs having recruiters write them?
+   * What does a recruiter do?
+   * Where do you personally get most of your job
+
+
+ * Job Descriptions 45 min incl break
+  * So, we taked about clarity, what are some of the things that came out in that conversation?
+  * How do you write your job descriptions?  Anyone have any standard rubrics?  What about canned stuff from your employer?
+  * Submit to folder
+  * Review samples
+
  * Screening
   * Written Tests
   * Phone screens
+
+
+Opener: Worst Interview (20 min)
+Pair off, spend 3 min telling your absolute worst job interview experience.  Then switch.
+Afterward, introduce the other person and give 3 - 5 reasons why their job interview was so bad.
+
+Intent:
+* Capture main reasons why interviews go wrong, and what we are specifically looking to solve
+
+Small Groups:
+* 2 Tech, Life, Other
+* Share interview questions & why (10 - 15 min)
+* locate 2 - 3 general guidelines in there  (combine groups, 10 min, then switch)
 
 * OMG The Interview
  * Who should be on the team?
@@ -49,16 +95,6 @@
   * What if they negotiate
   * What if they say no
   
-Small Groups:
-* 2 Tech, Life, Other
-* Share interview questions & why (10 - 15 min)
-* locate 2 - 3 general guidelines in there  (combine groups, 10 min, then switch)
-
-
-
-Welcome:
-* Please add job descriptions to the 
-
 Talking to recruiters—as the customer, not the product!
 Writing job descriptions
 Non-traditional ways of finding candidates
@@ -71,32 +107,6 @@ Making a decision and an offer
 * Any job descriptions you've read that appeal to you, or that turn you off.
 * Your favorite interview questions (and why!).
 * Recruiting techniques that have worked well for you in the past.
-
-
-Opener: Worst Interview (20 min)
-Pair off, spend 3 min telling your absolute worst job interview experience.  Then switch.
-Afterward, introduce the other person and give 3 - 5 reasons why their job interview was so bad.
-
-Intent:
-* Capture main reasons why interviews go wrong, and what we are specifically looking to solve
-
-Opener: In Their Shoes (Job Candidate)
-* Form three groups
-* You have one to think of all the approaches you take to getting a job
-* Write them all down
-* We'll read them out, the team with the most unique answers will win
-
-** Think about all levels: beginning, intermediate, senior
-
-Sourcing:
-* Figure out what kinds of staff we're looking for
-* How many people write their own vs having recruiters write them?
-* What does a recruiter do?
-* Where do you personally get most of your job
-
-
-Interview Questions:
-* Drop into Slack
 
 
 
